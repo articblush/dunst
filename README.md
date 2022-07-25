@@ -1,5 +1,9 @@
-# articblush-dunst
-Articblush configs for the [dunst](https://dunst-project.org/) notification daemon.
+<h2 align="center">Articblush Neovim Theme</h2> 
+<h3 align="center">Articblush configs for the dunst notification daemon.</h3>
+   
+ 
+ ----
+
 
 **Preview**
 <br><img src="https://i.imgur.com/W39ri2F.png"><br>
