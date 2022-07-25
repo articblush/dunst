@@ -3,7 +3,8 @@
    
  
  ----
-
-
-**Preview**
+## Intallation
+- clone the repo
+- copy & paste the config in **.config/dunst**
+## Preview
 <br><img src="https://i.imgur.com/W39ri2F.png"><br>
