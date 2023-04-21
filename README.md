@@ -1,4 +1,4 @@
-<h2 align="center">Articblush Neovim Theme</h2> 
+<h2 align="center">Articblush Dunst Theme</h2> 
 <h3 align="center">Articblush configs for the dunst notification daemon.</h3>
    
  
